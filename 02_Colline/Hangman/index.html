@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="author" content="Loïc Calcagno">
+        <meta name ="description" content="Création d'un pendu en JS">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Pendu | BeCode</title>
+        <link rel="stylesheet" href="assets/css/style.css">
+        <link rel="icon" href="assets/img/favicon.png" type="image/png" >
+    </head>
+
+    <body>
+        <main>
+            <!--Titre du site/jeu-->
+            <section class="titre">
+                <h1>Le jeu du pendu</h1>
+            </section>
+            
+            <!--Règles du jeu-->
+            <section class="regle">
+                <h2>Règles :</h2>
+                <div class="rules_logo">
+                    <div >
+                    <ul>
+                        <li>Bienvenue dans ce petit jeu du pendu!</li>
+                        <li>La règle est simple, trouve le bon mot sinon <em>GAME OVER</em>..</li>
+                        <li>Tu as droit à 6 essais pour trouver le bon mot!</li>
+                        <li>Que la force soit avec toi &#x1F609;</li>
+                    </ul>
+                </div>
+                    <div>
+                        <img src="assets/img/logo.png" alt="Logo d'un pendu">
+                    </div>
+                </div>
+            </section>
+
+            <!--Jeu-->
+            <div class="container">
+                <div class="mauvaisesProp">Mauvaises propositions: <span id='erreur'>0 </span> sur <span id='erreurMax'> </span></div>
+                <div class="text">
+                  <img id='pendu' src="./assets/img/0.jpg" alt="">
+                  <p>Devine le mot:</p>
+                  <p id="messageInfo">Les tirets pour le mot se trouvent ici</p>
+                  <div id="clavier"></div>
+                  <button class="btn pos" onClick="reset()">Recommencer</button>
+                </div> 
+            </div>
+        </main>
+
+        <footer>
+            <p>Le jeu du pendu - BeCode</p>
+        </footer>
+
+        <script src="assets/js/script.js"></script>
+
+    </body>
+</html>

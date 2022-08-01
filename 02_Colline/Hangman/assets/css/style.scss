@@ -1,0 +1,209 @@
+@media screen and (min-width : 800px){
+    body {
+        margin-top: 50px;
+        margin-left: 200px;
+        margin-right: 200px;
+        margin-bottom: 20px;
+        @import url('https://fonts.googleapis.com/css2?family=Karla:wght@200&family=Syne+Mono&display=swap');
+        font-family: 'Syne Mono', monospace;
+        background-image: url("../img/background-pc.jpg");
+        background-size: cover;
+        footer{
+            margin-top: 15px;
+            display: flex;
+            justify-content: center;
+            color: #fff;
+            border-top: 2px solid rgb(255, 253, 253);
+        }
+
+        //Styles liés au titre
+        .titre {
+            display: block;
+            justify-content: center;
+            border: 1px solid black;
+            border-radius: 10px;  
+            font-size: 25px;
+            text-align: center;
+            text-decoration: underline;
+            margin-bottom: 20px;
+            background-color: antiquewhite;
+        }
+
+        //Styles liés aux règles
+        .regle {
+            margin-bottom: 20px;
+            padding: 20px 20px 50px 50px;
+            border: 1px solid black;
+            border-radius: 10px;  
+            background-color: antiquewhite;
+            .rules_logo {
+                display: flex;
+                flex-direction: row;
+                justify-content: space-around;
+            }
+            h2 {
+                font-size: 25px;
+                text-decoration: underline;
+            }
+            img {
+                height: 100px;
+            }
+            li {
+                list-style-type: none;
+                line-height: 30px;
+            }
+        }
+
+        //Styles liés à la section de jeu
+        .container {
+            .mauvaisesProp {
+                display: flex;
+                justify-content: end;
+            }
+            .text {
+                img {
+                    display: block;
+                    margin-left: auto; margin-right: auto;
+                    margin-top: -50px;
+                    height: 250px;
+                }
+                #clavier {
+                    display: block;
+                    margin-left: auto; margin-right: auto;
+                    gap: 15px;
+                    .btn {
+                        border-radius: 100px;
+                        font-size: 20px;
+                        font-family:'Syne Mono', monospace;
+                        padding: 10px 10px 10px 10px;
+                        background-color: rgb(38, 19, 90);
+                        border: none;
+                        color: antiquewhite;
+                        margin-bottom: 20px;
+                        &:hover{
+                            cursor: pointer;
+                            box-shadow: 5px 5px 1px rgb(69, 69, 139);
+                        }
+                    }
+                }
+                .pos {
+                    background-color: rgb(143, 228, 228);
+                    border: none;
+                    border-radius: 5px;
+                    font-size: 20px;
+                    font-family:'Syne Mono', monospace;
+                    cursor: pointer;
+                    &:hover {
+                        box-shadow: 5px 5px 1px rgb(52, 146, 135);
+                    }
+                }
+            }
+        }
+    }
+}
+
+@media (min-width : 300px) and (max-width : 1000px) {
+    body {
+        margin-left: 50px;
+        margin-right: 50px;
+        @import url('https://fonts.googleapis.com/css2?family=Karla:wght@200&family=Syne+Mono&display=swap');
+        font-family: 'Syne Mono', monospace;
+        background-image: url("../img/background.jpg");
+        background-size: cover;
+        footer{
+            margin-top: 15px;
+            display: flex;
+            justify-content: center;
+            color: #fff;
+            border-top: 2px solid #fff;
+        }
+        //Styles liés au titre
+        .titre {
+            display: block;
+            justify-content: center;
+            border: 1px solid black;
+            border-radius: 10px;  
+            font-size: 25px;
+            text-align: center;
+            text-decoration: underline;
+            margin-bottom: 20px;
+            background-color: antiquewhite;
+        }
+        //Styles liés aux règles
+        .regle {
+            margin-bottom: 20px;
+            padding: 10px 10px 50px 50px;
+            border: 1px solid black;
+            border-radius: 10px;  
+            background-color: antiquewhite;
+            .rules_logo {
+                display: flex;
+                flex-direction: row;
+                justify-content: space-around;
+            }
+            h2 {
+                font-size: 25px;
+                text-decoration: underline;
+            }
+            img {
+                height: 100px;
+            }
+            li {
+                list-style-type: none;
+                line-height: 30px;
+            }
+            ul {
+                padding: 0;
+                text-align: center;
+            }
+        }
+
+        //Styles liés à la section de jeu
+        .container {
+
+            .mauvaisesProp {
+                display: flex;
+                justify-content: end;
+            }
+            .text {
+                .pos {
+                    background-color: rgb(143, 228, 228);
+                    border: none;
+                    border-radius: 5px;
+                    font-size: 20px;
+                    font-family:'Syne Mono', monospace;
+                    cursor: pointer;
+                    &:hover {
+                        box-shadow: 5px 5px 1px rgb(52, 146, 135);
+                    }
+                }
+                #clavier {
+                    display: block;
+                    margin-left: auto; margin-right: auto;
+                    gap: 15px;
+                    .btn {
+                        border-radius: 5px;
+                        font-size: 20px;
+                        font-family:'Syne Mono', monospace;
+                        padding: 5px 5px 5px 5px;
+                        background-color: rgb(38, 19, 90);
+                        border: 1px solid black;
+                        color: antiquewhite;
+                        margin-bottom: 20px;
+                        &:hover{
+                            cursor: pointer;
+                            box-shadow: 5px 5px 1px rgb(69, 69, 139);
+                        }
+                    }
+                
+                }
+                img {
+                    display: block;
+                    margin-left: auto; margin-right: auto;
+                    margin-top: -30px;
+                    height: 250px;
+                }
+            }
+        }
+    }
+}

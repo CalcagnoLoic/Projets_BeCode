@@ -1,0 +1,83 @@
+html {
+  background-color: #ebe3e3;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.text {
+  background-color: white;
+}
+
+.container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  margin-right: 1250px;
+  overflow: hidden;
+}
+
+.container:hover .img {
+  -webkit-transform: scale(1.15);
+          transform: scale(1.15);
+  opacity: 0.7;
+  -webkit-transition: 0.9s;
+  transition: 0.9s;
+}
+
+.container:hover .text {
+  -webkit-transform: translateY(-100px);
+          transform: translateY(-100px);
+  -webkit-transition: 0.9s;
+  transition: 0.9s;
+}
+
+p {
+  font-size: 12px;
+  color: black;
+}
+
+h1 {
+  font-weight: normal;
+  color: black;
+}
+
+h2 {
+  color: #f75b5b;
+  font-size: 18px;
+  font-weight: normal;
+}
+
+.text {
+  padding: 10px 25px 10px 25px;
+  text-align: justify;
+  position: relative;
+}
+
+.btnC {
+  background-color: red;
+  border: 1px solid red;
+  color: #fff;
+  font-size: 15px;
+  height: 60px;
+  width: 60px;
+  border-radius: 360px;
+  padding: 15px 15px 15px 15px;
+  position: absolute;
+  top: 15px;
+  left: 270px;
+}
+
+.btnR {
+  background-color: red;
+  border: 1px solid red;
+  color: #fff;
+  font-size: 15px;
+  position: relative;
+  top: -35px;
+  right: 25px;
+  padding: 5px 5px 5px 5px;
+}
+/*# sourceMappingURL=style.css.map */

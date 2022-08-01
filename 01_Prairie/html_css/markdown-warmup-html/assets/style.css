@@ -1,0 +1,72 @@
+html{ /*Mise en page du html*/
+    padding-left: 20%;
+    padding-right: 20%;;
+    background-image: url(assets/img/background.jpg);
+    background-size: cover;
+}
+body{background-color: antiquewhite;}
+body, ul, li { /*Mise en page du tag body*/
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+/*Styles liés aux titres et paragraphe*/
+h1{
+    font-size: 40px;
+    text-decoration: underline;
+}
+p, em, table, ul, li, q{
+    font-size: 20px;
+}
+img{
+    margin-top: 30px;
+    float: right;
+}
+section{
+    margin-left: 50px;
+    margin-right: 50px;
+    border-bottom: 1px solid black;
+}
+
+/*Styles lié au tableau*/
+table{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+table, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+td{
+    padding: 10px 20px 10px 20px;
+    list-style-type: none;
+}
+th{
+    font-weight: bold;
+    padding: 5px 5px 5px 5px ;
+    background-color: grey;
+    color: white;
+}
+tr:nth-child(even){
+    background-color: #f2f2f2;
+}
+tr:nth-child(odd){
+    background-color: #dad8d8;
+}
+.ananas{list-style-type: none; padding: 0;}
+
+/*Styles liés aux loisirs*/
+.loisirs, li{
+    text-align: left;
+
+}
+
+/*Styles liés au footer*/
+footer{
+    padding-top: 50px;
+    padding-bottom: 20px;
+    font-weight: bold;
+
+}

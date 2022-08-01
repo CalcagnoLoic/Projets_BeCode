@@ -1,0 +1,73 @@
+// Les commentaires en SASS sont invisible sauf si on utilise les mêmes balises de commentaires qu'en CSS.
+/*Exemple de modif du SASS*/
+html{
+    font-size: 15px;
+}
+
+//Les liens de parentés dans sass peuvent se faire dans le même "espace" grâce à l'indentation
+header {
+    background-color: aqua;
+    li {
+        font-size: 20px;
+        color: grey;
+    }
+}
+
+//Quand on utilise un font, dans CSS, il faut à chaque fois tout réécrire. Dans SASS, ce nest pas le cas, on peut mettre font une seule fois, suivi des propriétés que l'on modifie.
+.section{
+    font: {
+        style:italic;
+        size : 18px;
+    }
+}
+
+//On peut également utiliser directement les pseudoclasses avec les sélecteurs dans l'indentation
+h2 {
+    color: blue;
+    &:hover{
+        text-decoration: underline;
+    }
+}
+
+// on peut indenter autant de fois plusieurs éléments pour les modifiers
+#nav{
+    li {
+        color: orangered;
+    }
+}
+
+//On peut également faire des appels à une propriété prédéfinie
+$border-color: black;
+
+header {
+    border: 1px solid $border-color;
+}
+
+// On peut redimensionner des textes grâce à des formules mathématiques
+h3 {
+    font-size: (10/4) * 1em;
+}
+
+// Les classes étendues
+//On crée nos variables réutilisable
+$border-subscribe :blue;
+$border-nonsubscribe : green;
+
+.yep {
+    border: 3px solid $border-subscribe;
+    padding: 5px 5px 5px 5px;
+}
+.nop {
+    @extend .yep;
+    border-color: $border-nonsubscribe;
+}
+
+// Les mixines
+@mixin box($border-subscribe : yellow) {
+    border : 5px solid $border-subscribe;
+    padding: 6px 6px 6px 6px;
+}
+
+input {
+    @include box() //Si je mets une valeur dans la mixine, alors elle prend le dessus sur la valeur par défaut
+}

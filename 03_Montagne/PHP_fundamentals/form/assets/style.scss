@@ -1,0 +1,25 @@
+body {
+    display: block;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 7%;
+    border: 1px solid black;
+    border-radius: 15px;
+    padding: 20px 20px 20px 20px;
+    background-color: antiquewhite;
+}
+h1 {
+    text-align: center;
+    padding-bottom: 25px;
+    text-decoration: underline;
+}
+#input_name, #input_age, #input_artist{
+    margin-bottom: 25px;
+}
+#submit{
+    display: block;
+    margin: auto;
+}
+#input_mail {
+    margin-top: 25px;
+}

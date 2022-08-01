@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+}
+table, th, td {
+    border: 1px solid black;
+}
+th {
+    font-size: 17px;
+    padding: 10px 10px 10px 10px;
+    font-style: italic;
+}
+td {
+    text-align: center;
+    padding: 10px 10px 10px 10px;
+}

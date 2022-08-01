@@ -1,0 +1,54 @@
+$box-border-color: #ffffff;
+$text-color : rgb(255, 255, 255);
+$couleurB1 : #fff;
+
+html {
+    background-color: black;
+}
+h1, h2 {
+    color: $text-color;
+    text-decoration: none;
+}
+
+//petites fonctions pour le design des box
+@mixin state_init {
+    color: $text-color;
+    text-decoration: none;
+    border: 2px solid $box-border-color;
+    padding: 10px 10px 10px 10px ;
+    display: flex;
+    justify-content: center;
+    margin-left: 15px; margin-right: 85%;
+}
+@mixin change {
+    background-color: $couleurB1;
+    color: black;
+    transition: 0.9s;
+}
+
+//1er bouton : changement d'état de couleur
+.bouton1 {
+    @include state_init();
+    &:hover{
+        @include change();
+    }
+}
+
+//2e bouton : changement de couleur + zoom
+.bouton2{
+    @include state_init();
+    transition: transform 400ms;
+    &:hover {
+        @include change();
+        transform: scale(1.15);
+    }
+}
+
+//3e bouton : changement de couleur + translation
+.bouton3{
+    @include state_init();
+    &:hover{
+        @include change();
+        transform: translate(30%);
+    }
+}

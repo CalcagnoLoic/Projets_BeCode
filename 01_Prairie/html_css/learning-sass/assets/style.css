@@ -1,0 +1,53 @@
+/*Exemple de modif du SASS*/
+html {
+  font-size: 15px;
+}
+
+header {
+  background-color: aqua;
+}
+
+header li {
+  font-size: 20px;
+  color: grey;
+}
+
+.section {
+  font-style: italic;
+  font-size: 18px;
+}
+
+h2 {
+  color: blue;
+}
+
+h2:hover {
+  text-decoration: underline;
+}
+
+#nav li {
+  color: orangered;
+}
+
+header {
+  border: 1px solid black;
+}
+
+h3 {
+  font-size: 2.5em;
+}
+
+.yep, .nop {
+  border: 3px solid blue;
+  padding: 5px 5px 5px 5px;
+}
+
+.nop {
+  border-color: green;
+}
+
+input {
+  border: 5px solid yellow;
+  padding: 6px 6px 6px 6px;
+}
+/*# sourceMappingURL=style.css.map */

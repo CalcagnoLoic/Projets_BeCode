@@ -1,0 +1,25 @@
+/*Changement de couleur*/
+@media only screen and (min-width : 300px){ /*Ecran devient rouge si l'écran est plus petit que 300px*/
+    body {background-color: red;}
+}
+@media only screen and (min-width : 600px){ /*Ecran devient vert si l'écran est compris entre 300px et 600px*/
+    body {background-color: green;}
+}
+@media only screen and (min-width:768px){ /*Ecran devient bleu si l'écran est plus grand que 768px*/
+    body {background-color: blue;}
+}
+/*Apparition et disparition de mots*/
+/*@media screen and (max-width : 500px){ /*Le mot "small" disparait quand on passe en dessous de 500px
+    #small{display: none;}
+}*/
+/*Changement de taille*/
+@media only screen and (max-width : 500px){  /*Quand l'écran est en dessous de 500px, le texte prend une taille de 30px*/
+    #small{font-size: 50px;}
+}
+@media only screen and (max-width : 600px){ 
+    #medium{font-size: 40px;}
+}
+@media only screen and (max-width : 768px){
+    #large{font-size: 30px;}
+}
+/*réarranger??*/

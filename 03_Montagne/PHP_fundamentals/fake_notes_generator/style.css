@@ -1,0 +1,27 @@
+body {
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: antiquewhite;
+    font-family: 'Roboto', sans-serif;
+}
+.date {
+    text-align: end;
+    padding-bottom: 30px;
+}
+h1 {
+    text-align: center;
+    padding-bottom: 30px;
+    text-decoration: underline;
+    font-style: italic;
+}
+.paragraphe, ul {
+    text-indent: 10px;
+}
+ul {
+    list-style-type: none;
+}
+img{
+    padding-top: 40px;
+    display: block;
+    margin: auto;
+}

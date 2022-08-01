@@ -1,0 +1,363 @@
+/*Styles généraux*/
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.header-container, .first-section, .second-section, .marque, .fourth-section, .fifth-section, .seventh-section, .footer{
+    max-width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.second-section{
+    margin-top: 250px;
+    margin-bottom: 30px;
+    padding-top: 100px;
+}
+.marque{
+    margin-bottom: 150px;
+}
+.fourth-section {
+    margin-bottom: 150px;
+}
+.fifth-section {
+    margin-bottom: 250px;
+}
+.sixth-section{
+    padding-top: 40px;
+}
+.seventh-section {
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+a{text-decoration: none;}
+.fleche{ /*création de la flèche*/
+    border: #ffffff solid;
+    border-width: 0px 3px 3px 0px;
+    display: inline-block;
+    padding: 6px;
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+}
+.fleche-fr{ /*création de la flèche*/
+    border: orangered solid;
+    border-width: 0px 3px 3px 0px;
+    display: inline-block;
+    padding: 6px;
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+}
+
+/*Comportement des boutons à fond blanc*/
+.a-comportment:hover{
+    background-color: orangered;
+    border: #facb75;
+    color: rgb(255, 255, 255);
+}
+
+/*Styles liés au header*/
+.header-container{ /*Style de la "bannière" header*/
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    align-items: baseline;
+}
+.header-container button{ /*Conception du logo*/
+    background-color: orangered;
+    border-radius: 100px;
+    border: 1px solid orangered;
+    color: #ffffff;
+    height: 30px;
+    width: 30px;
+    font-size: 15px;
+    font-weight: bold;
+}
+#head>li{ /*Création du logo du site*/
+    list-style-type: none;
+    display: inline;
+    margin-right: 5px;
+    font-weight: bold;
+}
+ul.head>li, a{ /*Transfo de la liste à puce en une ligne espacée*/
+    font-size: 14px;
+    list-style-type: none;
+    display: inline;
+    justify-content: space-between;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-weight: bold;
+}
+a{color:black}
+.group>a{ /*Style de la 3e box*/
+    border: 1px solid orangered;
+    border-radius: 10px;
+    color: orangered;
+    padding: 10px 10px 10px 10px;
+}
+
+/*Styles liés à la 1ère section de main*/
+h1.first-title{
+    font-size: 85px;
+}
+.text{
+    margin-top: -25px;
+    margin-bottom: 20px;
+}
+div.first-section img{
+    float: right;
+}
+div.first-section>p{
+    font-size: 20px;
+    color: grey;
+}
+div.first-section>p.free{margin: 0;}
+div.free-demo{ /*Alignement du bouton de demo avec le texte*/
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+}
+div.first-section .free>a{ /*Bouton 'Try free demo'*/
+    color: #FFFFFF;
+    background-color: orangered;
+    border-radius: 10px;
+    padding: 20px 50px 20px 50px;
+    font-size: 20px;
+    margin-top: 15px;
+    position: relative; right: 30px;
+}
+.free-demo>.first-section {
+    color: grey;
+    font-size: 20px;
+    display: flex;
+}
+
+/*Styles liés à la seconde section de main*/
+.background{
+    background-image:url(img/background.jpg);
+    background-size: cover;
+}
+.second-section{
+    display: flex;
+}
+
+/*Styles liés aux marques présentes entre la 2e et 4e section*/
+.marque {
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    filter: grayscale(100%);
+    opacity: calc(0.33);
+    align-items: baseline;
+}
+
+/*Styles liés à la 4e section*/
+h2{
+    font-size: 75px;
+}
+div.fourth-section img{
+    float: right;
+}
+div.fourth-section p{
+    color: grey;
+    font-size: 20px;
+    text-align: justify;
+}
+div.fourth-section>p.more-info a{
+    color: orangered;
+    font-size: 20px;
+    margin: 0;
+}
+.fourth-section>p.text-latin{
+    margin-top: -30px;
+    line-height: 35px;
+}
+
+/*Styles liés à la 5e section*/
+.fifth-section>h2{
+    font-size: 65px;
+    text-align: center;
+}
+div.plan-tarifaire{ /*Aligner les tarifs*/
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.tarif1, .tarif3{ /*style des tarifs*/
+    border: 1px solid rgb(235, 235, 235);
+    border-radius: 10px;
+    padding: 50px 70px 50px 50px;
+    max-width: 300px;
+}
+.tarif2 { /*style des tarifs*/
+    border: 1px solid rgb(235, 235, 235);
+    border-radius: 10px;
+    padding: 50px 70px 50px 50px;
+    max-width: 300px;
+    box-shadow: 0px 0px 10px 10px rgb(235, 235, 235) ; 
+}
+.B1 a, .B3 a{ /*Style des boutons*/
+    color: orangered;
+    border: 1px solid orangered;
+    border-radius: 10px;
+    padding: 15px 15px 15px 15px;
+    max-width: 100px;
+    margin: 0;
+}
+.B2 a{ /*Style des boutons*/
+    background-color: orangered;
+    border: 1px solid orangered;
+    border-radius: 10px;
+    padding: 15px 15px 15px 15px;
+    max-width: 100px;
+    color: #ffffff;
+    margin: 0;
+}
+h3{
+    font-size: 30px;
+}
+ul{padding: 0;} /*Met à la 'ligne' ma liste à puce*/
+ul.list1>li{
+    font-size: 20px;
+    list-style-type: none;
+    text-align: left;
+}
+ul.list2>li{
+    font-size: 20px;
+    list-style-type: none;
+    text-align: left;
+}
+ul.list3>li{
+    font-size: 20px;
+    list-style-type: none;
+    text-align: left;
+}
+em {
+    font-size:19px ;
+    font-style: normal;
+    color: rgb(206, 201, 201);
+}
+p.price{
+    color: rgb(206, 201, 201);
+    font-size: 12px;
+}
+.price-dollars{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+/*Styles liés à la 6e section*/
+.sixth-section{
+    background-image:url(img/background.jpg);
+    background-size: cover;
+}
+h1.lasttitle{
+    font-size: 85px;
+    color: #ffffff;
+    text-align: center;
+    padding-left: 250px;
+    padding-right: 250px;
+}
+p.text-demo{
+    color: #ffffff;
+    text-align: center;
+    font-size: 45px;
+    margin-top: -30px;
+}
+div.sixth-section .free { /*Bouton 'Try free demo'*/
+    color: orangered;
+    background-color: #FFFFFF ;
+    border-radius: 10px;
+    font-size: 20px;
+    text-align: center;
+    max-width: 180px;
+    padding: 20px 20px 20px 20px;
+}
+.a-free{color: orangered; font-size: 20px;}
+.a-subs{color: #ffffff;}
+.free{
+    margin-left: auto;
+    margin-right: auto;
+}
+div.sixth-section>.fig2{
+    margin-left: 7.5%;
+    position: relative; bottom: 150px;
+}
+
+/*Styles liés à la 7e section*/
+div.seventh-section{ /*Aligner les boites sur une ligne*/
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.seventh-section button{ /*Conception du logo*/
+    background-color: orangered;
+    border-radius: 100px;
+    border: 1px solid orangered;
+    color: #ffffff;
+    height: 30px;
+    width: 30px;
+    font-size: 15px;
+    font-weight: bold;
+}
+#foot-head { /*Création du logo*/
+    list-style-type: none;
+    display: flex;
+    align-items: baseline;
+    font-weight: bold;
+}
+ul.foot-title{ /*Enlève les puces des listes*/
+    list-style-type: none;
+    line-height: 30px;
+    font-size: 15px;
+}
+.a-foot{margin:0;}
+.link, .legal, .news{ /*Style des colonnes links et legals + titre newsletter*/
+    font-size: 18px;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+.email>.p1{
+    font-size: 15px;
+    margin-top: 40px;
+    color: grey;
+}
+.email>.p2{
+    font-size: 10px;
+    margin-top: 10px;
+    color: grey;
+}
+.enter-mail{ /*Barre d'email*/
+    border: 1px solid #000;
+    border-radius: 10px;
+    max-width: 600px;
+    font-size: 15px;
+    display: flex;
+    flex-direction: row;
+    padding: 10px 10px 10px 10px;
+    align-items: baseline;
+}
+.a-subs { /*Bouton subscribe*/
+    background-color: orangered;
+    color: #ffffff;
+    border-radius: 10px;
+    font-size: 13px;
+    padding: 10px 10px 10px 10px;
+    font-weight: bold;
+    position: relative; left: 5%;
+}
+.mail-style {
+    border: #ffffff;
+    padding: 10px 10px 10px 20px ;
+}
+
+/*Styles associés au pied de page*/
+.footer{
+    border-top: 1px solid rgb(134, 133, 133);
+    font-size: 12px;
+    color: grey;
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    align-items: baseline;
+}
+.footer>.logo{
+    justify-content: right;
+}

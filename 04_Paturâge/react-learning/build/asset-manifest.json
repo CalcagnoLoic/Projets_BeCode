@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react_learning/static/css/main.a0f8db78.css",
+    "main.js": "/react_learning/static/js/main.6f8dd897.js",
+    "static/js/787.82b65551.chunk.js": "/react_learning/static/js/787.82b65551.chunk.js",
+    "static/media/olivier.jpg": "/react_learning/static/media/olivier.b2908b40d9fb7f86626b.jpg",
+    "static/media/basil.jpg": "/react_learning/static/media/basil.be00474e950eb5af0054.jpg",
+    "static/media/cactus.jpg": "/react_learning/static/media/cactus.a71c2062a926cb3d5db8.jpg",
+    "static/media/pothos.jpg": "/react_learning/static/media/pothos.d72dc0ac2f240d84c9d7.jpg",
+    "static/media/monstera.jpg": "/react_learning/static/media/monstera.ec0819da398bc9469040.jpg",
+    "static/media/lyrata.jpg": "/react_learning/static/media/lyrata.2e915120c952bdb7066c.jpg",
+    "static/media/mint.jpg": "/react_learning/static/media/mint.b83a3d2e0c1c1cda808a.jpg",
+    "static/media/calathea.jpg": "/react_learning/static/media/calathea.455c33e2bd3e5509c907.jpg",
+    "static/media/succulent.jpg": "/react_learning/static/media/succulent.f4329849930298a9e46b.jpg",
+    "static/media/sun.svg": "/react_learning/static/media/sun.0922d8139b642363c45edcd658e28aa0.svg",
+    "static/media/water.svg": "/react_learning/static/media/water.b7abd8058455acf5f8680f798b8f3ccb.svg",
+    "index.html": "/react_learning/index.html",
+    "main.a0f8db78.css.map": "/react_learning/static/css/main.a0f8db78.css.map",
+    "main.6f8dd897.js.map": "/react_learning/static/js/main.6f8dd897.js.map",
+    "787.82b65551.chunk.js.map": "/react_learning/static/js/787.82b65551.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0f8db78.css",
+    "static/js/main.6f8dd897.js"
+  ]
+}

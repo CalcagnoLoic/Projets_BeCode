@@ -1,0 +1,12 @@
+img{
+    margin: 0;
+    padding: 0;
+}
+
+div{
+    display: block;
+    margin: auto;
+}
+html{
+    background-color: blue;
+}

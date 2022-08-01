@@ -1,0 +1,83 @@
+@font-face {
+  font-family: Bellota;
+  src: url(../fonts/bellota/Bellota-Regular.otf);
+}
+
+body {
+  font-family: 'Bellota';
+}
+
+.nav_col {
+  background-color: #0D8187;
+}
+
+.nav_title {
+  display: block;
+  margin: auto;
+  color: white;
+  font-size: 50px;
+}
+
+.container_main {
+  background-color: #E5E5E5;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding-bottom: 118px;
+  padding-top: 118px;
+  padding-left: 194px;
+  padding-right: 194px;
+}
+
+.form_style {
+  padding-left: 97px;
+  padding-right: 97px;
+}
+
+.btn_form {
+  padding-top: 96px;
+  padding-bottom: 96px;
+  display: block;
+  margin: auto;
+}
+
+.logo {
+  height: 130px;
+}
+
+.ft_col {
+  background-color: #0D8187;
+}
+
+.ft_col_text {
+  color: #fff;
+}
+
+h3 {
+  padding-top: 25px;
+  text-align: center;
+  text-decoration: underline;
+}
+
+@media (max-width: 890px) {
+  .container_main {
+    padding-left: 94px;
+    padding-right: 94px;
+  }
+}
+
+@media (min-width: 300px) and (max-width: 600px) {
+  .container_main {
+    padding-left: 25px;
+    padding-right: 25px;
+  }
+  .form_style {
+    padding-left: 40px;
+    padding-right: 40px;
+  }
+}
+
+input#website {
+  display: none;
+}
+/*# sourceMappingURL=style.css.map */

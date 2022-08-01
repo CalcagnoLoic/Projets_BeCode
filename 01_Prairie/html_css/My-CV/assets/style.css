@@ -1,0 +1,73 @@
+/*Styles de la page*/
+body{
+    margin-left: 15%;
+    margin-right: 15%;
+    background-color: rgb(208, 220, 243);
+}
+h1{font-size: 40px;}
+h2{font-size: 35px;}
+h3{font-size: 30px; text-decoration: underline;}
+p, li, a{font-size: 25px; text-decoration: none;color: black;}
+
+/*Positionnement de la page avec grid*/
+body{
+    display: grid;
+    grid-template-columns: repeat(3, 2fr); /*me permet de faire mes "cases"*/
+    gap : 20px;
+}
+#banniere{
+    grid-row: 1;
+    grid-column: 1 / span 3;
+    background-color: rgb(122, 122, 235);
+    color: aliceblue;
+    border-bottom: 1px solid black;
+}
+#presentation {
+    grid-row: 2;
+    grid-column: 1 / span 2;
+    text-align: justify;
+}
+#experience{
+    grid-row: 3;
+    grid-column: 1 / span 2;
+    text-align: justify;
+}
+#formation {
+    grid-row: 4;
+    grid-column: 1 / span 2;
+    text-align: justify;
+}
+
+#compINF{
+    grid-row: 5;
+    grid-column: 1 / span 2;
+    text-align: justify;
+}
+#compSCI{
+    grid-row: 6;
+    grid-column: 1 / span 2;
+    text-align: justify;
+}
+#cote {
+    grid-column: 3;
+    grid-row: 2 /span 5;
+    text-align: justify;
+    background-color: rgb(181, 243, 222);
+    border-left: 1px solid black;
+}
+
+/*Disposition des différentes parties du CV*/
+div{
+    padding: 10px 10px 10px 10px;
+}
+img{
+    float: right;
+}
+#profil {padding: 100px 0px 100px 20px;}
+#langue {padding: 100px 40px 100px 20px;}
+#interet {padding: 100px 0px 100px 20px;}
+h3 {text-align: center;}
+.profil, .langue, .interet{
+    list-style-type: none;
+    line-height: 50px;
+}
