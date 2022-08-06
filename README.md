@@ -6,7 +6,7 @@
 
 Durant ma formation de webdev à BeCode Charleroi, j'ai été amené à travailler sur divers projets (que ce soit en groupe ou solo).
 
-Dans ce repository github, vous retrouverez tout les projets effectués durant ces 7 mois de formations. 
+Dans ce repository github, vous retrouverez tous les projets effectués durant ces 7 mois de formations. 
 
 De plus, un système de veille est mis en route durant la formation. Vous pouvez également retrouver les veilles que j'ai réalisé [ici](https://github.com/CalcagnoLoic/veille-becode).
 
@@ -26,16 +26,42 @@ De plus, un système de veille est mis en route durant la formation. Vous pouvez
 
 - [ ] Durée : 1 mois
 
-## Projet Markdown
+## A. Projet Markdown
 
 [Projet d'initiation au Markdown](https://github.com/CalcagnoLoic/Projets_BeCode/tree/main/01_Prairie/exercise-markdown)
 
 Projet de groupe réalisé avec [@Elena](https://github.com/TozurElena), [@Sarah](https://github.com/sarah-jpro) et [@Florian](https://github.com/FlorianAuc)
 
 
-## Projets HTML
+## B. Projets HTML
+
+[Réalisation d'une page HTML depuis un fichier markdown](https://github.com/CalcagnoLoic/Projets_BeCode/tree/main/01_Prairie/html_css/markdown-warmup-html)
+
+[Projet ayant pour but d'apprendre les bases en HTML5 et CSS3](https://github.com/CalcagnoLoic/Projets_BeCode/tree/main/01_Prairie/html_css/progressive-enhancement)
+
+[Apprentissage de CSS-Grid dans la réalisation d'un CV](https://github.com/CalcagnoLoic/Projets_BeCode/tree/main/01_Prairie/html_css/My-CV)
+
+[Réalisation d'une landing page depuis le design d'une planche Figma](https://github.com/CalcagnoLoic/Projets_BeCode/tree/main/01_Prairie/html_css/sprint_HTML_CSS)
+
+[Apprentissage du responsive Web](https://github.com/CalcagnoLoic/Projets_BeCode/tree/main/01_Prairie/html_css/responsive)
+
+[Découverte et apprentissage de SASS](https://github.com/CalcagnoLoic/Projets_BeCode/tree/main/01_Prairie/html_css/learning-sass)
+
+[Apprentissage des animations avec SASS](https://github.com/CalcagnoLoic/Projets_BeCode/tree/main/01_Prairie/html_css/learning-animation)
+
+[Challenge sur les animations SASS](https://github.com/CalcagnoLoic/Projets_BeCode/tree/main/01_Prairie/html_css/challenge-animation)
 
 
+## C. Projet Javascript
+
+[Introduction à l'algoritmie avec JavaScript](https://github.com/CalcagnoLoic/Projets_BeCode/tree/main/01_Prairie/algo-js)
+
+
+## D. Projet de fin de prairie
+
+[Projet de réalisation d'une landing page](https://github.com/CalcagnoLoic/Projets_BeCode/tree/main/01_Prairie/end-of-field-challenge)
+
+Ce projet de groupe a été réalisé avec [@Sarah](https://github.com/sarah-jpro)
 
 # 2. La colline
 
