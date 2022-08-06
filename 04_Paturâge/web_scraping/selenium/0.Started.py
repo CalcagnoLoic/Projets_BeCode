@@ -1,0 +1,43 @@
+import unittest
+from selenium import webdriver
+from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.common.by import By
+
+driver = webdriver.Firefox()
+driver.get("http://www.python.org")
+
+assert "Python" in driver.title
+
+#permet de rechercher un élément
+elem = driver.find_element(By.NAME, "q")
+
+#permet de faire une recherche sur le site
+elem.clear()
+elem.send_keys("pycon")
+elem.send_keys(Keys.RETURN)
+
+assert "No results found." not in driver.page_source
+
+driver.close()
+
+###################################
+class PythonOrgSearch(unittest.TestCase):
+
+    def setUp(self):
+        self.driver = webdriver.Firefox()
+    
+    def test_search_python(self):
+        driver = self.driver
+        driver.get("http://www.python.org")
+        self.assertIn('Python', driver.title)
+        elem = driver.find_element(By.NAME, "q")
+        elem.send_keys("pycon")
+        elem.send_keys(Keys.RETURN)
+        self.assertIn("No results found", driver.page_source)
+
+    def tearDown(self):
+        self.driver.close()
+
+    if __name__ == "__main__":
+        unittest.main()
+    

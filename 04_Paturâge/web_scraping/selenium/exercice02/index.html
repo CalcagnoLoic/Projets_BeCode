@@ -1,0 +1,80 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>Selenium-exercises by tvroom</title>
+
+    <link rel="stylesheet" href="../CSS_JS_files/styles.css">
+    <link rel="stylesheet" href="../CSS_JS_files/pygment_trac.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1>Selenium-exercises</h1>
+        <p>A set of shareable test pages &amp; exercises for writing selenium tests against.  This repo will also collect solution implementations using as many languages as possible -- Perl / Python / Ruby / Java / JavaScript etc...</p>
+
+        <p class="view"><a href="https://github.com/tvroom/selenium-exercises">View the Project on GitHub <small>tvroom/selenium-exercises</small></a></p>
+
+
+        <ul>
+          <li><a href="https://github.com/tvroom/selenium-exercises/zipball/master">Download <strong>ZIP File</strong></a></li>
+          <li><a href="https://github.com/tvroom/selenium-exercises/tarball/master">Download <strong>TAR Ball</strong></a></li>
+          <li><a href="https://github.com/tvroom/selenium-exercises">View On <strong>GitHub</strong></a></li>
+        </ul>
+      </header>
+      <section>
+        <h3>Exercise 2: Testing Login</h3>
+	In this page fill out the username and password fields with the following values and hit Login.
+	<br>
+	Username: bob<br>
+	Password: foobaz<br>
+	<p>
+	Test the following:
+	<ol>
+	<li>We are logged in as bob when supplying correct credentials</li>
+	<li>We are logged in as guest when we don't supply a bad password</li>
+	<li>We get an Incorrect Password error when supplying a bad password</li>
+      </section>
+      <section>
+	<h3>Log in to our "app"</h3>
+	<form method="get" action="login_test.html">
+		Username: <input name="username" type="text" value=""><br>
+		Password: <input name="password" type="password" value=""><br>
+		<input type="submit" value="Login">
+	</form>
+      </section>
+      <section>
+	<h3>Sample Solutions</h3>
+	<table>
+		<tr><td>Perl</td><td>Python</td><td>Ruby</td></tr>
+		<tr>
+			<td>
+				<a href="https://github.com/tvroom/selenium-exercises/blob/master/ex2/ex2.pl">ex2.pl (view)</a><br>
+				<a href="./ex2.pl">ex2.pl (download)<a>
+			</td>
+			<td>
+				<a href="https://github.com/tvroom/selenium-exercises/blob/master/ex2/ex2.py">ex2.py (view)</a><br>
+				<a href="./ex2.py">ex2.py (download)<a>
+			</td>
+			<td>
+				<a href="https://github.com/tvroom/selenium-exercises/blob/master/ex1/ex1.rb">ex2.rb (view)</a><br>
+				<a href="./ex2.rb">ex2.rb (download)<a>
+				
+			</td>
+		</tr>
+	</table>
+      </section>
+      <footer>
+        <p>This project is maintained by <a href="https://github.com/tvroom">tvroom</a></p>
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      </footer>
+    </div>
+    <script src="../CSS_JS_files/scale.fix.js"></script>
+    
+  </body>
+</html>
