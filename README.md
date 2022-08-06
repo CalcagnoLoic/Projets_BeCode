@@ -171,6 +171,8 @@ Ce projet a été réalisé avec [@Axel](https://github.com/SIRIEZ-Axel), [@Phil
 
 </p>
 
+- [ ] Durée : 2 mois
+
 ## A. Projets en lien avec la spécialisation de fin de formation
 
 [Apprentissage de Python](https://github.com/CalcagnoLoic/Projets_BeCode/tree/main/04_Patur%C3%A2ge/Improvement_python)
@@ -179,6 +181,20 @@ Ce projet a été réalisé avec [@Axel](https://github.com/SIRIEZ-Axel), [@Phil
 
 ## B. Projets en lien avec ma spécialisation dans Python
 
+[Apprentissage du framework Django](https://github.com/CalcagnoLoic/Projets_BeCode/tree/main/04_Patur%C3%A2ge/merchex_django)
+
+[Apprentissage de DjangoREST](https://github.com/CalcagnoLoic/Projets_BeCode/tree/main/04_Patur%C3%A2ge/Django_REST_learning)
+
+[Réalisation d'une série d'exercices Python provenant du site HackerRank](https://github.com/CalcagnoLoic/Projets_BeCode/tree/main/04_Patur%C3%A2ge/HackerRank_python)
+
+[Découverte du nouveau framework PyScript](https://github.com/CalcagnoLoic/Projets_BeCode/tree/main/04_Patur%C3%A2ge/PyScript)
+
+[Apprentissage du web scrapping avec Selenium et BeautifulSoup](https://github.com/CalcagnoLoic/Projets_BeCode/tree/main/04_Patur%C3%A2ge/web_scraping)
 
 
-- [ ] Durée : 2 mois
+## C. Workshop Python/Django
+
+[Workshop présentant le MVT au cœur de Django](https://github.com/CalcagnoLoic/workshop_python_django)
+
+Ce projet a été réalisé avec une équipe au top constituée d'[@Ali](https://github.com/alikhalife), d'[@Anaïs](https://github.com/Nymphadorart) et de [@Sarah](https://github.com/sarah-jpro)
+
