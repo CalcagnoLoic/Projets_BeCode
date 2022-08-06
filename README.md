@@ -19,7 +19,7 @@ De plus, un système de veille est mis en route durant la formation. Vous pouvez
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html">
     <img src="https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css3&logoColor=white" alt="css">
     <img src="https://img.shields.io/badge/sass-pink?style=for-the-badge&logo=sass&logoColor=white" alt="sass">
-    <img src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="js">
+    <img src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=black" alt="js">
 
 </p>
 
@@ -54,7 +54,7 @@ Projet de groupe réalisé avec [@Elena](https://github.com/TozurElena), [@Sarah
 
 ## C. Projet Javascript
 
-[Introduction à l'algoritmie avec JavaScript](https://github.com/CalcagnoLoic/Projets_BeCode/tree/main/01_Prairie/algo-js)
+[Introduction à l'algorithmie avec JavaScript](https://github.com/CalcagnoLoic/Projets_BeCode/tree/main/01_Prairie/algo-js)
 
 
 ## D. Projet de fin de prairie
@@ -77,6 +77,31 @@ Ce projet de groupe a été réalisé avec [@Sarah](https://github.com/sarah-jpr
 </p>
 
 - [ ] Durée : 2 mois
+
+## A. Projets solo d'apprentissage de JavaScript et de résolutions de problèmes orientés front-end
+
+[Réalisation de divers exercices en lien avec l'algorithmie et des concepts clés à la programmation en JavaScript](https://github.com/CalcagnoLoic/Projets_BeCode/tree/main/02_Colline/progressive_enhancement_JS)
+
+[Apprentissage des requêtes AJAX](https://github.com/CalcagnoLoic/Projets_BeCode/tree/main/02_Colline/ajax-simple-web-service-request)
+
+[Réalisation d'un mini 'Space Invaders' en utilisant Canvas](https://github.com/CalcagnoLoic/Projets_BeCode/tree/main/02_Colline/PewPew)
+
+[Introduction aux tests unitaires avec Jasmine](https://github.com/CalcagnoLoic/Projets_BeCode/tree/main/02_Colline/JasmineCheck)
+
+[Réalisation d'un jeu du pendu en vanillaJS](https://github.com/CalcagnoLoic/Projets_BeCode/tree/main/02_Colline/Hangman)
+
+
+## B. Projet de groupe sur la visualisation de données d'une API via ChartJS
+
+[Projet de data-visualisation](https://github.com/CalcagnoLoic/Projets_BeCode/tree/main/02_Colline/js-datavisualisation-challenge)
+
+Ce projet a été réalisé avec [@Nicolas](https://github.com/Kurner)
+
+## C. Projet de fin de colline 
+
+[Réalisation du site *AllezCine* permettant de voir les films présents au cinéma via une API](https://github.com/CalcagnoLoic/Projets_BeCode/tree/main/02_Colline/AllezCine)
+
+Ce projet de groupe a été réalisé avec [@Nicolas](https://github.com/Kurner), [@Elena](https://github.com/TozurElena) et [@Amoryne](https://github.com/Amoryne)
 
 # 3. La montagne
 
