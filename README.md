@@ -15,11 +15,13 @@ De plus, un système de veille est mis en route durant la formation. Vous pouvez
 - [ ] Technologies utilisées : 
 
 <p align="center">
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Logo VScode">
     <img src="https://img.shields.io/badge/git-red?style=for-the-badge&logo=git&logoColor=white" alt="git">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html">
     <img src="https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css3&logoColor=white" alt="css">
     <img src="https://img.shields.io/badge/sass-pink?style=for-the-badge&logo=sass&logoColor=white" alt="sass">
-    <img src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=black" alt="js">
+    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="js">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Logo Figma">
 
 </p>
 
@@ -68,11 +70,14 @@ Ce projet de groupe a été réalisé avec [@Sarah](https://github.com/sarah-jpr
 - [ ] Technologies utilisées :
 
 <p align="center">
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Logo VScode">
     <img src="https://img.shields.io/badge/git-red?style=for-the-badge&logo=git&logoColor=white" alt="git">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html">
     <img src="https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css3&logoColor=white" alt="css">
     <img src="https://img.shields.io/badge/sass-pink?style=for-the-badge&logo=sass&logoColor=white" alt="sass">
-    <img src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="js">
+    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="js">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Logo Figma">
+
 
 </p>
 
@@ -108,15 +113,44 @@ Ce projet de groupe a été réalisé avec [@Nicolas](https://github.com/Kurner)
 - [ ] Technologies utilisées :
 
 <p align="center">
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Logo VScode">
     <img src="https://img.shields.io/badge/git-red?style=for-the-badge&logo=git&logoColor=white" alt="git">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html">
     <img src="https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css3&logoColor=white" alt="css">
     <img src="https://img.shields.io/badge/sass-pink?style=for-the-badge&logo=sass&logoColor=white" alt="sass">
-    <img src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="js">
+    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="js">
+    <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php">
+    <img src="https://img.shields.io/badge/Mysql-black?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Logo Figma">
+    <img src="https://img.shields.io/badge/PHPMyAdmnin-90E59A.svg?style=for-the-badge&logo=phpmyadmin&logoColor=black" alt="Logo PHPmyadmin">
 
 </p>
 
 - [ ] Durée : 2 mois
+
+## A. Projets solo d'apprentissage de PHP/MySQL et de résolutions de problèmes orientés back-end 
+
+[Apprentissage de PHP](https://github.com/CalcagnoLoic/Projets_BeCode/tree/main/03_Montagne/PHP_fundamentals)
+
+[Apprentissage SQL](https://github.com/CalcagnoLoic/Projets_BeCode/tree/main/03_Montagne/SQL_learning)
+
+[Réalisation d'un formulaire de contact avec une partie design, framework CSS et backend](https://github.com/CalcagnoLoic/Projets_BeCode/tree/main/03_Montagne/hackers-poulette)
+
+## B. Projets en lien avec ma spécialisation dans le back-end
+
+[Apprentissage de la programmation orienté objet via OpenClassrooms](https://github.com/CalcagnoLoic/Projets_BeCode/tree/main/03_Montagne/POO_OC)
+
+[Apprentissage du MVC via OpenClassrooms](https://github.com/CalcagnoLoic/Projets_BeCode/tree/main/03_Montagne/mvc_learning)
+
+[Apprentissage de la programmation orienté au travers de différents mini-projets](https://github.com/CalcagnoLoic/Projets_BeCode/tree/main/03_Montagne/POO_learning)
+
+
+## C. Projet de fin de montagne
+
+[Réalisation d'un site complet *COGIP* avec une team frontend et une team backend ](https://github.com/CalcagnoLoic/Projets_BeCode/tree/main/03_Montagne/PHP-challenge-2)
+
+Ce projet a été réalisé avec [@Axel](https://github.com/SIRIEZ-Axel), [@Phillipe](https://github.com/philouLeF), [@Pierre](https://github.com/Pierrerobeyns) et [@Nicolas](https://github.com/Kurner)
+
 
 
 # 4. Les pâturages d'été
@@ -124,11 +158,12 @@ Ce projet de groupe a été réalisé avec [@Nicolas](https://github.com/Kurner)
 - [ ] Technologies utilisées :
 
 <p align="center">
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Logo VScode">
     <img src="https://img.shields.io/badge/git-red?style=for-the-badge&logo=git&logoColor=white" alt="git">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html">
     <img src="https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css3&logoColor=white" alt="css">
     <img src="https://img.shields.io/badge/sass-pink?style=for-the-badge&logo=sass&logoColor=white" alt="sass">
-    <img src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="js">
+    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="js">
 
 </p>
 
