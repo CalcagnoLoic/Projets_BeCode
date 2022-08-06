@@ -10,4 +10,4 @@ Les membres du groupe sont :
 * Elena 
 * Florian
 
-[Lien vers le fichier markdown.md](https://github.com/CalcagnoLoic/exercise-markdown/blob/main/markdown.md)
+[Lien vers le fichier markdown.md](https://github.com/CalcagnoLoic/Projets_BeCode/blob/main/01_Prairie/exercise-markdown/markdown.md)
