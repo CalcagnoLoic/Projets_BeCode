@@ -191,6 +191,9 @@ Ce projet a été réalisé avec [@Axel](https://github.com/SIRIEZ-Axel), [@Phil
 
 [Apprentissage du web scrapping avec Selenium et BeautifulSoup](https://github.com/CalcagnoLoic/Projets_BeCode/tree/main/04_Patur%C3%A2ge/web_scraping)
 
+[Apprentissage de fastAPI](https://github.com/CalcagnoLoic/Projets_BeCode/tree/main/04_Patur%C3%A2ge/fastAPI_learning)
+
+[Apprentissage des tests unitaires avec PyTest](https://github.com/CalcagnoLoic/Projets_BeCode/tree/main/04_Patur%C3%A2ge/PyTest)
 
 ## C. Workshop Python/Django
 
