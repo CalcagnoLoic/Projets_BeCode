@@ -179,11 +179,13 @@ Ce projet a été réalisé avec [@Axel](https://github.com/SIRIEZ-Axel), [@Phil
 
 [Réalisation d'un petit site en React](https://github.com/CalcagnoLoic/Projets_BeCode/tree/main/04_Patur%C3%A2ge/react-learning)
 
-## B. Projets en lien avec ma spécialisation dans Python
+## B. Projets en lien avec ma spécialisation en Python / préparation au stage 
 
 [Apprentissage du framework Django](https://github.com/CalcagnoLoic/Projets_BeCode/tree/main/04_Patur%C3%A2ge/merchex_django)
 
 [Apprentissage de DjangoREST](https://github.com/CalcagnoLoic/Projets_BeCode/tree/main/04_Patur%C3%A2ge/Django_REST_learning)
+
+[Réalisation d'une TODO liste avec Django et React](https://github.com/CalcagnoLoic/Projets_BeCode/tree/main/04_Patur%C3%A2ge/TODO_django_react)
 
 [Réalisation d'une série d'exercices Python provenant du site HackerRank](https://github.com/CalcagnoLoic/Projets_BeCode/tree/main/04_Patur%C3%A2ge/HackerRank_python)
 
