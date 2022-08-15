@@ -59,6 +59,7 @@
       <workItem from="1660247986812" duration="109000" />
       <workItem from="1660555922288" duration="48000" />
       <workItem from="1660578911765" duration="267000" />
+      <workItem from="1660581583015" duration="42000" />
     </task>
     <task id="LOCAL-00001" summary="ajouts du projet markdown dans la prairie">
       <created>1659778542804</created>
@@ -116,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660579007921</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="ajouts de projets des pâturages">
+      <created>1660581618297</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1660581618297</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
