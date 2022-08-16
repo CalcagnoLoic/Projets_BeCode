@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b6284657-f854-4b70-8beb-4db3fb41674e" name="Changes" comment="ajouts de projets des pâturages">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,11 +30,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Project.color": "45ff2a",
+    "Project.color": "195e0f",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/loic8/Bureau/Formations/BeCode/SinglePage_fastAPI_react",
+    "last_opened_file_path": "C:/Users/loic8/Bureau/Formations/BeCode/LoginPage_fastAPI_reactrouter",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -64,6 +65,8 @@
       <workItem from="1660581583015" duration="42000" />
       <workItem from="1660587709903" duration="105000" />
       <workItem from="1660595201372" duration="345000" />
+      <workItem from="1660637988444" duration="804000" />
+      <workItem from="1660640579858" duration="33000" />
     </task>
     <task id="LOCAL-00001" summary="ajouts du projet markdown dans la prairie">
       <created>1659778542804</created>
@@ -135,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660587756737</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="ajouts de projets des pâturages">
+      <created>1660638103612</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1660638103612</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

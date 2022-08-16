@@ -197,6 +197,8 @@ Ce projet a été réalisé avec [@Axel](https://github.com/SIRIEZ-Axel), [@Phil
 
 [Création d'une Todolist avec fastAPI/React](https://github.com/CalcagnoLoic/Projets_BeCode/tree/main/04_Patur%C3%A2ge/SinglePage_fastAPI_react)
 
+[Création d'une page de login via fastAPI/React router](https://github.com/CalcagnoLoic/Projets_BeCode/tree/main/04_Patur%C3%A2ge/LoginPage_fastAPI_reactrouter)
+
 [Apprentissage des tests unitaires avec PyTest](https://github.com/CalcagnoLoic/Projets_BeCode/tree/main/04_Patur%C3%A2ge/PyTest)
 
 ## C. Workshop Python/Django
