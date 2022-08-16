@@ -195,6 +195,8 @@ Ce projet a été réalisé avec [@Axel](https://github.com/SIRIEZ-Axel), [@Phil
 
 [Apprentissage de fastAPI](https://github.com/CalcagnoLoic/Projets_BeCode/tree/main/04_Patur%C3%A2ge/fastAPI_learning)
 
+[Création d'une Todolist avec fastAPI/React](https://github.com/CalcagnoLoic/Projets_BeCode/tree/main/04_Patur%C3%A2ge/SinglePage_fastAPI_react)
+
 [Apprentissage des tests unitaires avec PyTest](https://github.com/CalcagnoLoic/Projets_BeCode/tree/main/04_Patur%C3%A2ge/PyTest)
 
 ## C. Workshop Python/Django
