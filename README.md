@@ -207,3 +207,17 @@ Ce projet a été réalisé avec [@Axel](https://github.com/SIRIEZ-Axel), [@Phil
 
 Ce projet a été réalisé avec une équipe au top constituée d'[@Ali](https://github.com/alikhalife), d'[@Anaïs](https://github.com/Nymphadorart) et de [@Sarah](https://github.com/sarah-jpro)
 
+
+# 5. Apprentissage après BeCode
+
+- [ ] Technologies utilisées :
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Logo VScode">
+    <img src="https://img.shields.io/badge/git-red?style=for-the-badge&logo=git&logoColor=white" alt="git">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Logo Tailwind">
+    <img src="https://img.shields.io/badge/TypeScript-0078D4?style=for-the-badge&logo=typescript&logoColor=white" alt="Logo typescript">
+
+</p>
+
+[Apprentissage de TypeScript](https://github.com/CalcagnoLoic/Projets_BeCode/tree/main/05_ApresBecode/typescript_learning)
