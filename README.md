@@ -223,6 +223,6 @@ Ce projet a été réalisé avec une équipe au top constituée d'[@Ali](https:/
 
 [Apprentissage de TypeScript](https://github.com/CalcagnoLoic/Projets_BeCode/tree/main/05_ApresBecode/typescript_learning)
 
-[Apprentissage des design pattern](https://github.com/CalcagnoLoic/Projets_BeCode/tree/main/05_ApresBecode/design_pattern_learning)
+[Apprentissage des design pattern](https://github.com/CalcagnoLoic/designpattern_learning)
 
-[Apprentissage des tests unitaires, d'intégrations et End-To-End](https://github.com/CalcagnoLoic/Projets_BeCode/tree/main/05_ApresBecode/code_testing_learning)
+[Apprentissage des tests unitaires, d'intégrations et End-To-End](https://github.com/CalcagnoLoic/learning-code-testing)
