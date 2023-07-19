@@ -19,8 +19,8 @@ De plus, un système de veille est mis en route durant la formation. Vous pouvez
     <img src="https://img.shields.io/badge/git-red?style=for-the-badge&logo=git&logoColor=white" alt="git">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html">
     <img src="https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css3&logoColor=white" alt="css">
-    <img src="https://img.shields.io/badge/sass-pink?style=for-the-badge&logo=sass&logoColor=white" alt="sass">
-    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="js">
+    <img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass">
+    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Logo Figma">
 
 </p>
@@ -74,8 +74,8 @@ Ce projet de groupe a été réalisé avec [@Sarah](https://github.com/sarah-jpr
     <img src="https://img.shields.io/badge/git-red?style=for-the-badge&logo=git&logoColor=white" alt="git">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html">
     <img src="https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css3&logoColor=white" alt="css">
-    <img src="https://img.shields.io/badge/sass-pink?style=for-the-badge&logo=sass&logoColor=white" alt="sass">
-    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="js">
+    <img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass">
+    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Logo Figma">
 
 
@@ -117,7 +117,7 @@ Ce projet de groupe a été réalisé avec [@Nicolas](https://github.com/Kurner)
     <img src="https://img.shields.io/badge/git-red?style=for-the-badge&logo=git&logoColor=white" alt="git">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html">
     <img src="https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css3&logoColor=white" alt="css">
-    <img src="https://img.shields.io/badge/sass-pink?style=for-the-badge&logo=sass&logoColor=white" alt="sass">
+    <img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass">
     <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php">
     <img src="https://img.shields.io/badge/Mysql-black?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Logo Figma">
@@ -161,7 +161,7 @@ Ce projet a été réalisé avec [@Axel](https://github.com/SIRIEZ-Axel), [@Phil
     <img src="https://img.shields.io/badge/PyCharm Pro-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
     <img src="https://img.shields.io/badge/git-red?style=for-the-badge&logo=git&logoColor=white" alt="git">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html">
-    <img src="https://img.shields.io/badge/sass-pink?style=for-the-badge&logo=sass&logoColor=white" alt="sass">
+    <img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass">
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Logo Tailwind">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
@@ -215,7 +215,7 @@ Ce projet a été réalisé avec une équipe au top constituée d'[@Ali](https:/
 <p align="center">
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Logo VScode">
     <img src="https://img.shields.io/badge/git-red?style=for-the-badge&logo=git&logoColor=white" alt="git">
-    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="js">
+    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js">
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Logo Tailwind">
     <img src="https://img.shields.io/badge/TypeScript-0078D4?style=for-the-badge&logo=typescript&logoColor=white" alt="Logo typescript">
 
