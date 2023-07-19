@@ -215,9 +215,12 @@ Ce projet a été réalisé avec une équipe au top constituée d'[@Ali](https:/
 <p align="center">
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Logo VScode">
     <img src="https://img.shields.io/badge/git-red?style=for-the-badge&logo=git&logoColor=white" alt="git">
+    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="js">
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Logo Tailwind">
     <img src="https://img.shields.io/badge/TypeScript-0078D4?style=for-the-badge&logo=typescript&logoColor=white" alt="Logo typescript">
 
 </p>
 
 [Apprentissage de TypeScript](https://github.com/CalcagnoLoic/Projets_BeCode/tree/main/05_ApresBecode/typescript_learning)
+[Apprentissage des design pattern](https://github.com/CalcagnoLoic/Projets_BeCode/tree/main/05_ApresBecode/design_pattern_learning)
+[Apprentissage des tests unitaires, d'intégrations et End-To-End](https://github.com/CalcagnoLoic/Projets_BeCode/tree/main/05_ApresBecode/code_testing_learning)
